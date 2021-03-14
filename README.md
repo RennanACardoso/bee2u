@@ -13,7 +13,7 @@ Com o uso da biblioteca Pandas, construiu-se um dataframe com os valores captura
 Construiu-se também uma página html, por meio do pandas, com os valores dos leitos.
 
 
-# O que dejava-se fazer?
+# O que desejava-se fazer?
 
 Criar por questões temporais, desejava-se criar um iframe para importar o valor os dados na página de consulta.
 O dataframe facilmente iria efetuar um filtro, com os dados do select.
